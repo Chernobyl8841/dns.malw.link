@@ -14,23 +14,23 @@
 172.64.33.155 d.rutor.info
 
 # ChatGPT, OpenAI:
-185.246.223.127 chatgpt.com
-185.246.223.127 ab.chatgpt.com
-185.246.223.127 auth.openai.com
-185.246.223.127 auth0.openai.com
-185.246.223.127 platform.openai.com
-185.246.223.127 cdn.oaistatic.com
-185.246.223.127 files.oaiusercontent.com
-185.246.223.127 cdn.auth0.com
-185.246.223.127 tcr9i.chat.openai.com
-185.246.223.127 webrtc.chatgpt.com
-185.246.223.127 android.chat.openai.com
-185.246.223.127 api.openai.com
-45.95.233.23 operator.chatgpt.com
-185.246.223.127 sora.chatgpt.com
-185.246.223.127 sora.com
-185.246.223.127 videos.openai.com
-185.246.223.127 ios.chat.openai.com
+94.131.119.22 chatgpt.com
+94.131.119.22 ab.chatgpt.com
+94.131.119.22 auth.openai.com
+94.131.119.22 auth0.openai.com
+94.131.119.22 platform.openai.com
+94.131.119.22 cdn.oaistatic.com
+94.131.119.22 files.oaiusercontent.com
+94.131.119.22 cdn.auth0.com
+94.131.119.22 tcr9i.chat.openai.com
+94.131.119.22 webrtc.chatgpt.com
+94.131.119.22 android.chat.openai.com
+94.131.119.22 api.openai.com
+94.131.119.22erator.chatgpt.com
+94.131.119.22 sora.chatgpt.com
+94.131.119.22 sora.com
+94.131.119.22 videos.openai.com
+94.131.119.22 ios.chat.openai.com
 
 # Сервисы Google:
 185.246.223.127 gemini.google.com
@@ -214,7 +214,7 @@
 50.7.85.222 www.canva.com
 185.246.223.127 www.intel.com
 185.246.223.127 www.dell.com
-50.7.85.219 www.tiktok.com # Только на сайте. Приложение определяет регион по оператору, а не по IP. Поэтому есть моды.
+83.220.169.155 tiktok.com
 142.54.189.106 web.archive.org # Блокирует от российских IP некоторые сайты
 185.246.223.127 developer.nvidia.com
 107.150.34.99 builds.parsec.app
